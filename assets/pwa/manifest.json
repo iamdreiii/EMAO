@@ -1,0 +1,23 @@
+{
+	
+	"name":"EMAO",
+	"short_name":"EMAO",
+	"start_url":"/",
+	"display":"standalone",
+	"background_color":"#10913f",
+	"theme_color":"white",
+	"scope":"/",
+	"description":"A Municipal Agriculture Office Livelihood and Domestic Animals Web Application",
+	"icons":[
+	{
+	"src":"../pwaimages/icon-64.png",					
+	"sizes":"64x64",
+	"type":"image/png"
+	},
+	{
+	"src":"../pwaimages/icon-512.png",
+	"sizes":"512x512",
+	"type":"image/png"
+	}
+]
+}
